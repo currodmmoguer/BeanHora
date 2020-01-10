@@ -5,7 +5,6 @@
  */
 package beanhora;
 
-import static beanhora.BeanHoraTest.formato;
 import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
 import org.junit.Test;
